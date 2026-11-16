@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Remix FI-TOR Yield Production Dashboard",
+  "description": "Real-time production yield monitoring dashboard for FIMA Internasional (A Kalbe Company), tracking Line 1, Line 2, and Line 4 with Google Sheets live sync.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
